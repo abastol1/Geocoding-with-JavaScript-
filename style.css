@@ -1,0 +1,26 @@
+#map {
+	height: 80%;
+	width: 800px;
+	float: left;
+}
+html, body{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#input {
+	display: block;
+}
+ul{
+	display: inline;
+}
+li{
+	width: 500px;
+	padding: 10px;
+	margin-left: 850px;
+	margin-bottom: 15px;
+	font-size: 20px;
+	background-color: #b5bdc9;
+	list-style-type: none;
+}
